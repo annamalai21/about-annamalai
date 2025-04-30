@@ -1,0 +1,13 @@
+.banner{
+    background-image: url(/images/pexels-fauxels-3183198\ copy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+.imagepadding{
+    width: 150px;
+    height: 100px;
+}
+.secbody{
+    padding: 70px 0;
+}
