@@ -11,3 +11,8 @@
 .secbody{
     padding: 70px 0;
 }
+
+.padna{
+    padding: 5px;
+    border-radius: 15px;
+}
